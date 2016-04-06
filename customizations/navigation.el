@@ -59,3 +59,6 @@
 
 ;; projectile everywhere!
 (projectile-global-mode)
+
+;; Default windmove bindings to use s-<arrow>
+(windmove-default-keybindings)
