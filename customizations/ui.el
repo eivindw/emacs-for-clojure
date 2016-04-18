@@ -1,3 +1,6 @@
+;; Mac - right option to allow os chars
+(setq mac-right-option-modifier nil)
+
 ;; These customizations change the way emacs looks and disable/enable
 ;; some user interface elements. Some useful customizations are
 ;; commented out, and begin with the line "CUSTOMIZE". These are more
