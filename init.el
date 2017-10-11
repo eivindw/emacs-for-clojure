@@ -72,7 +72,6 @@
 
     ;; python
     elpy
-    flycheck
 
     puppet-mode
 
